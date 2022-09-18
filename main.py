@@ -7,22 +7,17 @@ Blue = Fore.BLUE
 def show_banner() :
     banner = print(f'''
 {Fore.GREEN}
-    ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄       ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄         ▄  ▄▄▄▄▄▄▄▄▄▄   ▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄
-    ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌     ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░░░░░░░░░░▌ ▐░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
-    ▐░█▀▀▀▀▀▀▀█░▌ ▀▀▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌     ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░▌       ▐░▌▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▀▀▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌
-    ▐░▌       ▐░▌         ▐░▌ ▐░▌       ▐░▌     ▐░▌          ▐░▌       ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌         ▐░▌▐░▌       ▐░▌
-    ▐░▌       ▐░▌        ▐░▌  ▐░█▄▄▄▄▄▄▄█░▌     ▐░▌ ▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌▄▄▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌
-    ▐░▌       ▐░▌       ▐░▌   ▐░░░░░░░░░░░▌     ▐░▌▐░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░▌ ▐░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
-    ▐░▌       ▐░▌      ▐░▌    ▐░█▀▀▀▀▀▀▀▀▀      ▐░▌ ▀▀▀▀▀▀█░▌▐░█▀▀▀▀█░█▀▀  ▀▀▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▀▀▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀█░█▀▀
-    ▐░▌       ▐░▌     ▐░▌     ▐░▌               ▐░▌       ▐░▌▐░▌     ▐░▌            ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌         ▐░▌▐░▌     ▐░▌
-    ▐░█▄▄▄▄▄▄▄█░▌    ▐░▌      ▐░▌               ▐░█▄▄▄▄▄▄▄█░▌▐░▌      ▐░▌           ▐░▌▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌▄▄▄▄▄▄▄▄▄█░▌▐░▌      ▐░▌
-    ▐░░░░░░░░░░░▌   ▐░▌       ▐░▌               ▐░░░░░░░░░░░▌▐░▌       ▐░▌          ▐░▌▐░░░░░░░░░░▌ ▐░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌
-    ▀▀▀▀▀▀▀▀▀▀▀     ▀         ▀                 ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀            ▀  ▀▀▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀
-    Coded by Mr Juice
-    I mma Say Fuck You If you Dont Follow Me🖕
-    Chat Me: https://bio.link/mrjuice
+ ____             _       _       _
+|  _ \  __ _ _ __| | __  | |_   _(_) ___ ___
+| | | |/ _` | '__| |/ /  | | | | | |/ __/ _ \
+| |_| | (_| | |  |   < |_| | |_| | | (_|  __/
+|____/ \__,_|_|  |_|\_\___/ \__,_|_|\___\___|      
     
-********************************
+    ***Coded➠ by Mr Juice***
+    ***I Follow On Instagram link is below***
+    ***Chat Me➠ https://bio.link/mrjuice***
+    
+***Subscribe To My YouTube Channel➠ Mr Juice OFC and Infinity Tech***
     ''')
 show_banner()
 def delay_print(s) :
@@ -32,8 +27,8 @@ def delay_print(s) :
         time.sleep(0.095)
 def num():
     while True:
-        number = input("Number : +91")
-        numberr = "+91" +number
+        number = input("Number : +263")
+        numberr = "+263" +number
         lenfind = len(number)
         if (number.isnumeric()):
             if (lenfind < 10):
@@ -54,7 +49,7 @@ def num():
                 print(f"{Fore.CYAN}USE THE OTP CODE AND LOGIN\n")
                 print(f"{Fore.RED}Follow and Support Me By Subscribing and following on Instagram. . . ")
             else:
-                print("Unexpected error occured, contact https://bio.link/mrjuice for a solution")
+                print("Unexpected error occured Check➠ http://t.me/HackersBot_2022bot for a solution")
         else: print(f"{Fore.RED}Number format is incorrect")
         num()
 
