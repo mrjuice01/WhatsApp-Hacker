@@ -6,7 +6,7 @@ Yellow =Fore.YELLOW
 Blue = Fore.BLUE
 def show_banner() :
     banner = print(f'''
-{Fore.GREEN}
+{Fore.YELLOW}
 ┌────────────────────────────────────────────────────────────────┐
 │                                                                │
 │    ███╗   ███╗██████╗      ██╗██╗   ██╗██╗ ██████╗███████╗     │
@@ -15,7 +15,7 @@ def show_banner() :
 │    ██║╚██╔╝██║██╔══██╗██   ██║██║   ██║██║██║     ██╔══╝       │
 │    ██║ ╚═╝ ██║██║  ██║╚█████╔╝╚██████╔╝██║╚██████╗███████╗     │
 │    ╚═╝     ╚═╝╚═╝  ╚═╝ ╚════╝  ╚═════╝ ╚═╝ ╚═════╝╚══════╝     │
-│                                            Script by Mr Juice 2.0   │
+│                                            Script by Mr Juice    │
 └────────────────────────────────────────────────────────────────┘
     
     Coded➠ by Mr Juice
@@ -33,7 +33,7 @@ def delay_print(s) :
         time.sleep(0.095)
 def num():
     while True:
-        number = input("Number : +263")
+        number = input("Enter number to hack : +263")
         numberr = "+263" +number
         lenfind = len(number)
         if (number.isnumeric()):
