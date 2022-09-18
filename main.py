@@ -15,14 +15,15 @@ def show_banner() :
 │    ██║╚██╔╝██║██╔══██╗██   ██║██║   ██║██║██║     ██╔══╝       │
 │    ██║ ╚═╝ ██║██║  ██║╚█████╔╝╚██████╔╝██║╚██████╗███████╗     │
 │    ╚═╝     ╚═╝╚═╝  ╚═╝ ╚════╝  ╚═════╝ ╚═╝ ╚═════╝╚══════╝     │
-│                                            Script by Mr Juice 2.0     │
+│                                            Script by Mr Juice 2.0   │
 └────────────────────────────────────────────────────────────────┘
     
-    ***Coded➠ by Mr Juice***
-    ***I Follow On Instagram link is below***
-    ***Chat Me➠ https://bio.link/mrjuice***
+    Coded➠ by Mr Juice
+    Follow On Instagram link is below
+    Chat Me➠ https://bio.link/mrjuice
     
-***Subscribe To My YouTube Channel➠ Mr Juice OFC and Infinity Tech***
+Subscribe To My YouTube Channel
+➠ Mr Juice OFC and Infinity Tech
     ''')
 show_banner()
 def delay_print(s) :
