@@ -40,9 +40,20 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=WhatsApp+O
 # Dark Juice WhatsApp OTP Hacker
 
 # INSTALLATION
+
+<!-- Installation via Termux -->
+<b><details><summary>Installation on Termux</summary></b>
+```bash
+> apt update
+> apt upgrade
+> pkg install python
+> pkg install git -y
+> git clone https://github.com/mrjuice01/WhatsApp-Hacker
+> cd WhatsApp-Hacker
+> python3 main.py
 ```
-Too bad That I wont give Comants On How To use it Unless You Follow All my Accounts 
-```
+</details>
+
 # CONTACT
 Click [here](https://bio.link/mrjuice) to contact me
 
@@ -66,4 +77,4 @@ Iam not responsible for any DAMAGE caused to people using this script
 
 Im not responsible for any DAMAGE that you might encounter. Use At own risk.
 
-# ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×
+## Mr Juice
