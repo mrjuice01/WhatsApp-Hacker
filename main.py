@@ -6,7 +6,7 @@ Yellow =Fore.YELLOW
 Blue = Fore.BLUE
 def show_banner() :
     banner = print(f'''
-{Fore.Cyan}
+{Fore.Lime}
 ╔╗╔╗───╔╗─  ╔╦═╦╗╔╗─────╔╗─╔═╗──────────
 ║╚╝║╔═╗║╠╗  ║║║║║║╚╗╔═╗─║╚╗║═╣╔═╗─╔═╗╔═╗
 ║╔╗║║═╣║═╣  ║║║║║║║║║╬╚╗║╔╣╠═║║╬╚╗║╬║║╬║
