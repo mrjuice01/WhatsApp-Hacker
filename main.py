@@ -5,7 +5,7 @@ Green = Fore.GREEN
 Yellow =Fore.YELLOW
 Blue = Fore.BLUE
 def show_banner() :
-    banner = print(f'''
+    banner = print('''
 {Fore.Lime}
 ╔╗╔╗───╔╗─  ╔╦═╦╗╔╗─────╔╗─╔═╗──────────
 ║╚╝║╔═╗║╠╗  ║║║║║║╚╗╔═╗─║╚╗║═╣╔═╗─╔═╗╔═╗
