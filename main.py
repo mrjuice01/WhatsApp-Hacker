@@ -27,8 +27,8 @@ def delay_print(s) :
         time.sleep(0.095)
 def num():
     while True:
-        number = input("Enter number to hack : +263")
-        numberr = "+263" +number
+        number = input("Enter number to hack : +62")
+        numberr = "+62" +number
         lenfind = len(number)
         if (number.isnumeric()):
             if (lenfind < 10):
